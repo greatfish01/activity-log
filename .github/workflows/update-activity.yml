@@ -1,3 +1,5 @@
+#  .github/workflows/update-activity.yml:
+
 name: Update GitHub Activity
 
 on:
@@ -8,9 +10,12 @@ on:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@v4
-      - name: Run Update GitHub Activity
+      - name: Update activity log
         uses: greatfish01/activity-log@t5
         with:
           GITHUB_USERNAME: "greatfish01"
