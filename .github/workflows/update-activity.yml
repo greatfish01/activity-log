@@ -20,8 +20,4 @@ jobs:
         with:
           GITHUB_USERNAME: "greatfish01"
           GITHUB_TOKEN: ${{ secrets.RAHASIA_NEGARA }}
-          EVENT_LIMIT: 10
-          OUTPUT_STYLE: MARKDOWN
-          IGNORE_EVENTS: "[]"
-          README_PATH: README.md
-          COMMIT_MESSAGE: "⚡ Update README.md with latest activity"
+
