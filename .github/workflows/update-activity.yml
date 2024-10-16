@@ -19,5 +19,5 @@ jobs:
         uses: greatfish01/activity-log@t5
         with:
           GITHUB_USERNAME: "greatfish01"
-          GITHUB_TOKEN: ${{ secrets.RAHASIA_NEGARA }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
