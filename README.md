@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-16` in a private repo
-2. 🔀 Merged a PR in a private repo
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-16` in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
-4. 🔀 Merged [PR #6](https://github.com/TheDanniCraft/Pixcurate/pull/6) in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
-5. 🔀 Merged a PR in a private repo
-6. 🗣 Commented on issue [#10](https://github.com/TheDanniCraft/activity-log/issues/10) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/10#issuecomment-2408719528)
-7. ❌ Closed [PR #10](https://github.com/TheDanniCraft/activity-log/pull/10) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-8. 🗣 Commented on issue [#9](https://github.com/TheDanniCraft/activity-log/issues/9) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/9#issuecomment-2408718477)
-9. 🗣 Commented on issue [#6](https://github.com/TheDanniCraft/activity-log/issues/6) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/6#issuecomment-2408715182)
-10. 🗣 Commented on issue [#7](https://github.com/TheDanniCraft/activity-log/issues/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/7#issuecomment-2408710514)
+1. 🆕 Opened an issue [#1](https://github.com/piol01/activity-log/issues/1) in [piol01/activity-log](https://github.com/piol01/activity-log)
+2. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+3. 🆕 Opened an issue [#12](https://github.com/piol01/search2.0/issues/12) in [piol01/search2.0](https://github.com/piol01/search2.0)
+4. ❌ Closed an issue [#6](https://github.com/piol01/search2.0/issues/6) in [piol01/search2.0](https://github.com/piol01/search2.0)
+5. 📝 Committed to [piol01/search2.0](https://github.com/piol01/search2.0/commit/99b3133be2b5795560147d5bb62afcd7c1ecdf60)
+6. 📝 Committed to [piol01/search2.0](https://github.com/piol01/search2.0/commit/fff084785ec412670b1761020447cb9f4f782d22)
+7. 🔀 Merged [PR #11](https://github.com/piol01/search2.0/pull/11) in [piol01/search2.0](https://github.com/piol01/search2.0)
+8. 📥 Opened [PR #11](https://github.com/piol01/search2.0/pull/11) in [piol01/search2.0](https://github.com/piol01/search2.0)
+9. 📝 Committed to [piol01/search2.0](https://github.com/piol01/search2.0/commit/fff084785ec412670b1761020447cb9f4f782d22)
+10. 📝 Committed to [piol01/search2.0](https://github.com/piol01/search2.0/commit/fc59eeeb56487e6c74d7b0d4ade59f0a6ba8976e)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
