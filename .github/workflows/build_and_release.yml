@@ -43,7 +43,7 @@ jobs:
      - name: Test index.js
        env:  
           INPUT_GITHUB_USERNAME: "greatfish01"
-          INPUT_GITHUB_TOKEN: ${{ secretas.RAHASIA_NEGARA }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.RAHASIA_NEGARA }}
           INPUT_TARGET_REPOS: '[greatfish01/activity-log]'
           INPUT_OUTPUT_STYLE: MARKDOWN
           INPUT_IGNORE_EVENTS: '[]'
