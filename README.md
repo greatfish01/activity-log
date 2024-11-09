@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔄 Reopened an issue [#14](https://github.com/xiang-921101/teamhw/issues/14) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-2. 🗣 Commented on issue [#14](https://github.com/xiang-921101/teamhw/issues/14) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/14#issuecomment-2457556937)
-3. ❌ Closed an issue [#14](https://github.com/xiang-921101/teamhw/issues/14) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-4. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/cf0c7bee36584046474ea879c5ca2e05721b20c8)
-5. ➕ Created a new branch [`main`](https://github.com/greatfish01/AudioProtection/tree/main) in [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
-6. 🎉 Created a new repository [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
-7. 🎉 Created a new repository [greatfish01/coba-coba](https://github.com/greatfish01/coba-coba)
-8. 🌍 Made repository [greatfish01/AudioDetectionApp](https://github.com/greatfish01/AudioDetectionApp) public
-9. ➕ Created a new branch `main` in a private repo
-10. 🎉 Created a new private repository
+1. 🗣 Commented on a review of [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/pull/33#pullrequestreviewcomment-1835311302)
+2. 🔎 Reviewed [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+3. 🗣 Commented on issue [#33](https://github.com/xiang-921101/teamhw/issues/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/33#issuecomment-2466106543)
+4. 🔄 Reopened an issue [#14](https://github.com/xiang-921101/teamhw/issues/14) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+5. 🗣 Commented on issue [#14](https://github.com/xiang-921101/teamhw/issues/14) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/14#issuecomment-2457556937)
+6. ❌ Closed an issue [#14](https://github.com/xiang-921101/teamhw/issues/14) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+7. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/cf0c7bee36584046474ea879c5ca2e05721b20c8)
+8. ➕ Created a new branch [`main`](https://github.com/greatfish01/AudioProtection/tree/main) in [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
+9. 🎉 Created a new repository [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
+10. 🎉 Created a new repository [greatfish01/coba-coba](https://github.com/greatfish01/coba-coba)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
