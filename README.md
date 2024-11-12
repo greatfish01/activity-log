@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #34](https://github.com/xiang-921101/teamhw/pull/34) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+1. 🗑️ Deleted a branch `home-html-page` in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
 2. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/5d963b330fcfe7bd6507e5fc52cdb45d22ca6dd6)
-3. ➕ Created a new branch [`home-html-page`](https://github.com/xiang-921101/teamhw/tree/home-html-page) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-4. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/a25eaee168b246eb41a8b609a458eef14709ab28)
-5. 🗣 Commented on a review of [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/pull/33#pullrequestreviewcomment-1835366950)
-6. 🔎 Reviewed [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-7. 🔎 Reviewed [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-8. 🗣 Commented on a review of [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/pull/33#pullrequestreviewcomment-1835311302)
-9. 🔎 Reviewed [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-10. 🗣 Commented on issue [#33](https://github.com/xiang-921101/teamhw/issues/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/33#issuecomment-2466106543)
+3. ❌ Closed an issue [#16](https://github.com/xiang-921101/teamhw/issues/16) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+4. 🔀 Merged [PR #34](https://github.com/xiang-921101/teamhw/pull/34) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+5. 📥 Opened [PR #34](https://github.com/xiang-921101/teamhw/pull/34) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+6. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/5d963b330fcfe7bd6507e5fc52cdb45d22ca6dd6)
+7. ➕ Created a new branch [`home-html-page`](https://github.com/xiang-921101/teamhw/tree/home-html-page) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+8. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/a25eaee168b246eb41a8b609a458eef14709ab28)
+9. 🗣 Commented on a review of [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/pull/33#pullrequestreviewcomment-1835366950)
+10. 🔎 Reviewed [PR #33](https://github.com/xiang-921101/teamhw/pull/33) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
