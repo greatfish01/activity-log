@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/9c6ed28d816c1c812f89c38ae8bfa831e03b018b)
-2. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2f90caf6e1189f757f9637ddb7c59f2c870fe04b)
-3. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/edb308732fbbc5954e7f30eebaf55ee7ffebce0a)
-4. ❌ Closed an issue [#21](https://github.com/xiang-921101/teamhw/issues/21) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-5. 🗣 Commented on issue [#21](https://github.com/xiang-921101/teamhw/issues/21) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/21#issuecomment-2490013946)
-6. 📥 Opened [PR #36](https://github.com/xiang-921101/teamhw/pull/36) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-7. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/ed28206e460f3f885194df923c608608b1ad9c2c)
-8. ➕ Created a new branch [`19-撰寫男裝html`](https://github.com/xiang-921101/teamhw/tree/19-撰寫男裝html) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-9. 🔎 Reviewed [PR #35](https://github.com/xiang-921101/teamhw/pull/35) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-10. 🗑️ Deleted a branch `home-html-page` in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+1. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/0740246119f8952c6b27998492f4e18bab3c279a)
+2. ❌ Closed [PR #1](https://github.com/greatfish01/AudioProtection/pull/1) in [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
+3. 📥 Opened [PR #1](https://github.com/greatfish01/AudioProtection/pull/1) in [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
+4. ➕ Created a new branch [`readme`](https://github.com/greatfish01/AudioProtection/tree/readme) in [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection)
+5. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/1d95ef8cab3c01eb0d024a64788a1dbc908b1a3d)
+6. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/9c6ed28d816c1c812f89c38ae8bfa831e03b018b)
+7. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2f90caf6e1189f757f9637ddb7c59f2c870fe04b)
+8. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/edb308732fbbc5954e7f30eebaf55ee7ffebce0a)
+9. ❌ Closed an issue [#21](https://github.com/xiang-921101/teamhw/issues/21) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+10. 🗣 Commented on issue [#21](https://github.com/xiang-921101/teamhw/issues/21) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/21#issuecomment-2490013946)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
