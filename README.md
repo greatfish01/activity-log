@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/58e582d362335eb35278b94bda0b29acfe67affb)
-2. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/528eaa5709eab4ebfed2de8bace63cfebaacb51a)
-3. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2cbc690d868e2cb1578fbadf07b463259f482283)
-4. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/758c1df6659fbb1a7f33901a755e2cdcd922d9e5)
-5. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/f4fa203bccaa17f12e632b89830552a1c829f10a)
-6. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2d080f194daebfaa0d6ed69017f0078f3a8a6649)
-7. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/c67e34a4d73e9de778ddd8b371c6fdac334f8a4e)
-8. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/76f434be904f1c7a05864df14fbbfea35cc55115)
-9. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/aec2f572eaf7469bed3492a437156449c08e8c91)
-10. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/0a0b4b6003747b706535ddec7bc3a64417011d7a)
+1. ➕ Created a new branch [`23-撰寫購物車與結帳程式`](https://github.com/xiang-921101/teamhw/tree/23-撰寫購物車與結帳程式) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+2. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/58e582d362335eb35278b94bda0b29acfe67affb)
+3. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/528eaa5709eab4ebfed2de8bace63cfebaacb51a)
+4. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2cbc690d868e2cb1578fbadf07b463259f482283)
+5. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/758c1df6659fbb1a7f33901a755e2cdcd922d9e5)
+6. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/f4fa203bccaa17f12e632b89830552a1c829f10a)
+7. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2d080f194daebfaa0d6ed69017f0078f3a8a6649)
+8. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/c67e34a4d73e9de778ddd8b371c6fdac334f8a4e)
+9. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/76f434be904f1c7a05864df14fbbfea35cc55115)
+10. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/aec2f572eaf7469bed3492a437156449c08e8c91)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
