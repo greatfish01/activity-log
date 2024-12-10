@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. ❌ Closed an issue [#25](https://github.com/xiang-921101/teamhw/issues/25) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-2. 🗣 Commented on issue [#25](https://github.com/xiang-921101/teamhw/issues/25) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/25#issuecomment-2510976059)
-3. ❌ Closed an issue [#23](https://github.com/xiang-921101/teamhw/issues/23) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-4. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/e4815595b2ad58f385fe0a813a37987bf0b841f0)
-5. 🔀 Merged [PR #37](https://github.com/xiang-921101/teamhw/pull/37) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-6. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/00294f70c03da31d4fc88efd76d370e518dfd4f2)
-7. 📥 Opened [PR #37](https://github.com/xiang-921101/teamhw/pull/37) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
-8. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/e4815595b2ad58f385fe0a813a37987bf0b841f0)
-9. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/315cd6f1f316265f475e3b9a81d77d7bbcadb008)
-10. ➕ Created a new branch [`23-撰寫購物車與結帳程式`](https://github.com/xiang-921101/teamhw/tree/23-撰寫購物車與結帳程式) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+1. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/c7269fd8ab6b2a139bd77abd47fa2ed2e2a7fa8b)
+2. ❌ Closed an issue [#25](https://github.com/xiang-921101/teamhw/issues/25) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+3. 🗣 Commented on issue [#25](https://github.com/xiang-921101/teamhw/issues/25) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw): [View Comment](https://github.com/xiang-921101/teamhw/issues/25#issuecomment-2510976059)
+4. ❌ Closed an issue [#23](https://github.com/xiang-921101/teamhw/issues/23) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+5. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/e4815595b2ad58f385fe0a813a37987bf0b841f0)
+6. 🔀 Merged [PR #37](https://github.com/xiang-921101/teamhw/pull/37) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+7. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/00294f70c03da31d4fc88efd76d370e518dfd4f2)
+8. 📥 Opened [PR #37](https://github.com/xiang-921101/teamhw/pull/37) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+9. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/e4815595b2ad58f385fe0a813a37987bf0b841f0)
+10. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/315cd6f1f316265f475e3b9a81d77d7bbcadb008)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
