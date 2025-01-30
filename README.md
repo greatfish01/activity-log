@@ -19,15 +19,15 @@ A GitHub Action that automatically updates your README file with the latest acti
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
-2. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/c7269fd8ab6b2a139bd77abd47fa2ed2e2a7fa8b)
-3. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/58e582d362335eb35278b94bda0b29acfe67affb)
-4. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/528eaa5709eab4ebfed2de8bace63cfebaacb51a)
-5. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2cbc690d868e2cb1578fbadf07b463259f482283)
-6. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/758c1df6659fbb1a7f33901a755e2cdcd922d9e5)
-7. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/f4fa203bccaa17f12e632b89830552a1c829f10a)
-8. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/2d080f194daebfaa0d6ed69017f0078f3a8a6649)
-9. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/c67e34a4d73e9de778ddd8b371c6fdac334f8a4e)
-10. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/76f434be904f1c7a05864df14fbbfea35cc55115)
+2. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+3. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+4. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+5. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+6. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+7. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+8. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+9. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
+10. 📝 Committed to [greatfish01/AudioProtection](https://github.com/greatfish01/AudioProtection/commit/fb30d24cb93c54bcbb8f507526dc706f9e747235)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
